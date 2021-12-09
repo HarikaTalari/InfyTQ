@@ -7,11 +7,11 @@ Provide different String values and test your program
 
 Sample Input
 
-AAAABBBBCCCCCCCC
+AAAABBBBCCCCCCCC, 
 AABCCA
 
 Expected Output
 
-4A4B8C
+4A4B8C, 
 2A1B2C1A
 
